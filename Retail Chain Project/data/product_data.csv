@@ -1,0 +1,801 @@
+product_name,unit_price,category
+Groceries_Product_48,56.84,Groceries
+Electronics_Product_55,5.2,Electronics
+Electronics_Product_61,51.87,Electronics
+Groceries_Product_30,6.32,Groceries
+Clothing_Product_180,87.43,Clothing
+Electronics_Product_139,91.98,Electronics
+Groceries_Product_15,93.61,Groceries
+Home Goods_Product_36,94.14,Home Goods
+Electronics_Product_148,97.51,Electronics
+Electronics_Product_104,29.37,Electronics
+Groceries_Product_112,69.96,Groceries
+Groceries_Product_120,75.88,Groceries
+Electronics_Product_181,57.09,Electronics
+Groceries_Product_78,56.95,Groceries
+Groceries_Product_16,74.58,Groceries
+Groceries_Product_108,53.14,Groceries
+Home Goods_Product_90,32.39,Home Goods
+Electronics_Product_185,25.64,Electronics
+Groceries_Product_65,62.07,Groceries
+Groceries_Product_94,40.46,Groceries
+Home Goods_Product_142,75.39,Home Goods
+Electronics_Product_198,73.85,Electronics
+Groceries_Product_91,69.38,Groceries
+Electronics_Product_137,8.59,Electronics
+Home Goods_Product_107,13.39,Home Goods
+Groceries_Product_71,13.01,Groceries
+Groceries_Product_51,79.04,Groceries
+Groceries_Product_125,50.11,Groceries
+Clothing_Product_45,91.6,Clothing
+Electronics_Product_80,45.46,Electronics
+Groceries_Product_85,62.57,Groceries
+Clothing_Product_106,11.69,Clothing
+Home Goods_Product_140,72.66,Home Goods
+Home Goods_Product_41,66.46,Home Goods
+Home Goods_Product_56,46.94,Home Goods
+Groceries_Product_179,98.65,Groceries
+Clothing_Product_166,90.46,Clothing
+Clothing_Product_4,33.26,Clothing
+Home Goods_Product_116,40.44,Home Goods
+Electronics_Product_79,16.06,Electronics
+Groceries_Product_14,29.2,Groceries
+Home Goods_Product_46,85.09,Home Goods
+Groceries_Product_104,59.31,Groceries
+Home Goods_Product_3,88.22,Home Goods
+Groceries_Product_175,84.15,Groceries
+Groceries_Product_118,29.59,Groceries
+Electronics_Product_172,74.22,Electronics
+Groceries_Product_36,96.49,Groceries
+Groceries_Product_64,67.66,Groceries
+Groceries_Product_198,48.38,Groceries
+Clothing_Product_86,84.71,Clothing
+Groceries_Product_113,71.01,Groceries
+Home Goods_Product_77,85.33,Home Goods
+Groceries_Product_55,5.18,Groceries
+Home Goods_Product_154,50.63,Home Goods
+Clothing_Product_65,21.02,Clothing
+Clothing_Product_22,41.14,Clothing
+Clothing_Product_66,73.91,Clothing
+Clothing_Product_20,3.39,Clothing
+Groceries_Product_33,26.17,Groceries
+Groceries_Product_41,98.24,Groceries
+Groceries_Product_182,74.68,Groceries
+Groceries_Product_106,44.13,Groceries
+Electronics_Product_93,66.72,Electronics
+Groceries_Product_92,8.07,Groceries
+Clothing_Product_134,78.6,Clothing
+Groceries_Product_138,19.23,Groceries
+Groceries_Product_114,85.01,Groceries
+Groceries_Product_29,83.61,Groceries
+Home Goods_Product_111,12.9,Home Goods
+Groceries_Product_131,58.62,Groceries
+Groceries_Product_20,47.83,Groceries
+Clothing_Product_127,18.99,Clothing
+Electronics_Product_111,6.28,Electronics
+Clothing_Product_10,25.77,Clothing
+Groceries_Product_54,87.15,Groceries
+Home Goods_Product_182,34.62,Home Goods
+Home Goods_Product_124,94.09,Home Goods
+Clothing_Product_162,94.18,Clothing
+Electronics_Product_159,93.79,Electronics
+Home Goods_Product_131,80.89,Home Goods
+Home Goods_Product_178,27.94,Home Goods
+Clothing_Product_149,81.86,Clothing
+Home Goods_Product_45,62.92,Home Goods
+Clothing_Product_170,65.56,Clothing
+Electronics_Product_44,13.85,Electronics
+Clothing_Product_99,26.82,Clothing
+Clothing_Product_25,56.99,Clothing
+Groceries_Product_181,29.16,Groceries
+Electronics_Product_162,87.67,Electronics
+Home Goods_Product_172,29.49,Home Goods
+Groceries_Product_167,81.48,Groceries
+Groceries_Product_44,54.83,Groceries
+Groceries_Product_86,68.61,Groceries
+Groceries_Product_169,53.43,Groceries
+Home Goods_Product_78,56.66,Home Goods
+Groceries_Product_28,7.15,Groceries
+Electronics_Product_143,63.97,Electronics
+Groceries_Product_158,23.71,Groceries
+Groceries_Product_49,27.69,Groceries
+Electronics_Product_28,22.87,Electronics
+Electronics_Product_114,89.25,Electronics
+Groceries_Product_53,84.47,Groceries
+Clothing_Product_187,27.96,Clothing
+Groceries_Product_123,61.81,Groceries
+Clothing_Product_46,56.42,Clothing
+Groceries_Product_68,64.29,Groceries
+Groceries_Product_192,72.99,Groceries
+Groceries_Product_149,28.72,Groceries
+Electronics_Product_37,54.02,Electronics
+Groceries_Product_97,35.73,Groceries
+Electronics_Product_19,61.86,Electronics
+Home Goods_Product_20,35.72,Home Goods
+Clothing_Product_6,46.33,Clothing
+Groceries_Product_147,57.59,Groceries
+Clothing_Product_56,8.84,Clothing
+Groceries_Product_25,89.49,Groceries
+Clothing_Product_156,58.79,Clothing
+Electronics_Product_106,49.4,Electronics
+Home Goods_Product_27,22.25,Home Goods
+Home Goods_Product_135,77.55,Home Goods
+Electronics_Product_132,68.61,Electronics
+Electronics_Product_105,31.68,Electronics
+Groceries_Product_18,43.3,Groceries
+Clothing_Product_100,73.5,Clothing
+Groceries_Product_171,91.81,Groceries
+Groceries_Product_168,69.89,Groceries
+Clothing_Product_14,72.88,Clothing
+Clothing_Product_59,53.95,Clothing
+Groceries_Product_7,63.61,Groceries
+Groceries_Product_21,58.95,Groceries
+Groceries_Product_174,73.83,Groceries
+Clothing_Product_1,43.13,Clothing
+Groceries_Product_145,25.66,Groceries
+Home Goods_Product_86,38.52,Home Goods
+Home Goods_Product_183,61.13,Home Goods
+Electronics_Product_38,96.3,Electronics
+Groceries_Product_84,22.53,Groceries
+Home Goods_Product_73,66.85,Home Goods
+Clothing_Product_167,25.28,Clothing
+Electronics_Product_71,35.51,Electronics
+Clothing_Product_179,27.05,Clothing
+Clothing_Product_146,79.61,Clothing
+Home Goods_Product_189,43.09,Home Goods
+Clothing_Product_26,76.67,Clothing
+Groceries_Product_156,41.59,Groceries
+Groceries_Product_162,23.62,Groceries
+Groceries_Product_43,34.4,Groceries
+Groceries_Product_107,93.03,Groceries
+Groceries_Product_83,94.9,Groceries
+Clothing_Product_155,86.7,Clothing
+Groceries_Product_184,24.85,Groceries
+Groceries_Product_124,96.54,Groceries
+Home Goods_Product_158,90.12,Home Goods
+Home Goods_Product_194,79.53,Home Goods
+Groceries_Product_111,21.17,Groceries
+Groceries_Product_143,63.7,Groceries
+Clothing_Product_90,88.36,Clothing
+Home Goods_Product_93,99.96,Home Goods
+Groceries_Product_152,86.8,Groceries
+Home Goods_Product_89,56.23,Home Goods
+Groceries_Product_150,62.13,Groceries
+Home Goods_Product_10,57.93,Home Goods
+Home Goods_Product_129,45.84,Home Goods
+Groceries_Product_186,86.88,Groceries
+Electronics_Product_50,32.29,Electronics
+Home Goods_Product_68,53.7,Home Goods
+Electronics_Product_116,45.4,Electronics
+Groceries_Product_170,89.84,Groceries
+Groceries_Product_6,94.28,Groceries
+Electronics_Product_43,24.96,Electronics
+Home Goods_Product_83,23.55,Home Goods
+Electronics_Product_169,86.6,Electronics
+Groceries_Product_110,81.12,Groceries
+Groceries_Product_135,68.09,Groceries
+Groceries_Product_67,68.49,Groceries
+Groceries_Product_103,67.48,Groceries
+Groceries_Product_132,63.93,Groceries
+Groceries_Product_151,53.32,Groceries
+Home Goods_Product_91,11.56,Home Goods
+Groceries_Product_32,53.0,Groceries
+Electronics_Product_120,31.25,Electronics
+Groceries_Product_62,61.18,Groceries
+Clothing_Product_133,93.53,Clothing
+Groceries_Product_146,96.86,Groceries
+Groceries_Product_164,50.71,Groceries
+Home Goods_Product_170,99.63,Home Goods
+Groceries_Product_102,75.01,Groceries
+Clothing_Product_69,43.93,Clothing
+Groceries_Product_34,59.17,Groceries
+Clothing_Product_68,17.73,Clothing
+Groceries_Product_74,73.87,Groceries
+Groceries_Product_172,20.79,Groceries
+Home Goods_Product_127,35.64,Home Goods
+Electronics_Product_85,48.71,Electronics
+Clothing_Product_150,69.58,Clothing
+Clothing_Product_174,99.43,Clothing
+Clothing_Product_23,96.65,Clothing
+Electronics_Product_57,47.74,Electronics
+Clothing_Product_41,26.42,Clothing
+Electronics_Product_161,67.23,Electronics
+Groceries_Product_89,70.34,Groceries
+Groceries_Product_39,93.33,Groceries
+Electronics_Product_179,4.82,Electronics
+Groceries_Product_154,38.69,Groceries
+Groceries_Product_176,53.47,Groceries
+Clothing_Product_77,8.23,Clothing
+Groceries_Product_19,42.81,Groceries
+Home Goods_Product_121,96.29,Home Goods
+Groceries_Product_161,74.27,Groceries
+Groceries_Product_177,12.42,Groceries
+Electronics_Product_59,22.37,Electronics
+Groceries_Product_129,65.21,Groceries
+Groceries_Product_87,84.42,Groceries
+Groceries_Product_22,91.78,Groceries
+Home Goods_Product_35,90.95,Home Goods
+Electronics_Product_158,81.81,Electronics
+Home Goods_Product_58,6.65,Home Goods
+Groceries_Product_3,19.02,Groceries
+Electronics_Product_168,55.43,Electronics
+Electronics_Product_101,74.39,Electronics
+Groceries_Product_42,54.33,Groceries
+Electronics_Product_110,45.53,Electronics
+Home Goods_Product_109,67.52,Home Goods
+Groceries_Product_121,44.31,Groceries
+Clothing_Product_111,68.65,Clothing
+Home Goods_Product_150,45.3,Home Goods
+Groceries_Product_13,35.47,Groceries
+Clothing_Product_91,74.6,Clothing
+Clothing_Product_70,45.48,Clothing
+Home Goods_Product_141,23.6,Home Goods
+Home Goods_Product_69,9.54,Home Goods
+Groceries_Product_183,67.54,Groceries
+Groceries_Product_148,69.44,Groceries
+Home Goods_Product_198,68.85,Home Goods
+Electronics_Product_171,34.2,Electronics
+Clothing_Product_40,67.69,Clothing
+Groceries_Product_93,74.05,Groceries
+Electronics_Product_89,12.97,Electronics
+Groceries_Product_133,70.16,Groceries
+Electronics_Product_15,37.47,Electronics
+Groceries_Product_60,93.7,Groceries
+Home Goods_Product_163,9.55,Home Goods
+Groceries_Product_122,65.38,Groceries
+Electronics_Product_128,92.12,Electronics
+Home Goods_Product_160,74.58,Home Goods
+Groceries_Product_37,23.94,Groceries
+Electronics_Product_175,45.07,Electronics
+Electronics_Product_170,89.87,Electronics
+Groceries_Product_195,52.5,Groceries
+Groceries_Product_101,87.95,Groceries
+Home Goods_Product_84,5.87,Home Goods
+Groceries_Product_189,67.92,Groceries
+Clothing_Product_34,12.7,Clothing
+Clothing_Product_121,55.06,Clothing
+Home Goods_Product_196,25.78,Home Goods
+Home Goods_Product_188,16.23,Home Goods
+Clothing_Product_144,87.57,Clothing
+Clothing_Product_2,29.64,Clothing
+Clothing_Product_151,83.16,Clothing
+Clothing_Product_132,72.96,Clothing
+Groceries_Product_23,2.1,Groceries
+Home Goods_Product_57,76.44,Home Goods
+Groceries_Product_8,23.74,Groceries
+Home Goods_Product_115,29.73,Home Goods
+Groceries_Product_88,25.97,Groceries
+Groceries_Product_197,95.67,Groceries
+Home Goods_Product_174,76.21,Home Goods
+Groceries_Product_137,55.19,Groceries
+Clothing_Product_169,24.85,Clothing
+Electronics_Product_45,58.02,Electronics
+Groceries_Product_75,57.23,Groceries
+Electronics_Product_94,46.88,Electronics
+Home Goods_Product_11,96.08,Home Goods
+Electronics_Product_8,84.32,Electronics
+Groceries_Product_17,61.45,Groceries
+Groceries_Product_10,79.56,Groceries
+Home Goods_Product_123,14.81,Home Goods
+Electronics_Product_78,54.55,Electronics
+Home Goods_Product_195,92.16,Home Goods
+Electronics_Product_21,96.33,Electronics
+Clothing_Product_15,39.09,Clothing
+Home Goods_Product_88,80.83,Home Goods
+Home Goods_Product_133,93.66,Home Goods
+Groceries_Product_80,71.88,Groceries
+Groceries_Product_188,51.31,Groceries
+Electronics_Product_29,29.31,Electronics
+Electronics_Product_195,55.53,Electronics
+Groceries_Product_140,52.4,Groceries
+Home Goods_Product_192,63.63,Home Goods
+Home Goods_Product_32,48.73,Home Goods
+Electronics_Product_18,37.33,Electronics
+Clothing_Product_92,84.5,Clothing
+Electronics_Product_190,39.36,Electronics
+Clothing_Product_145,70.23,Clothing
+Home Goods_Product_33,30.45,Home Goods
+Groceries_Product_24,94.42,Groceries
+Groceries_Product_81,49.04,Groceries
+Groceries_Product_96,92.08,Groceries
+Groceries_Product_190,25.54,Groceries
+Electronics_Product_17,52.22,Electronics
+Clothing_Product_200,27.05,Clothing
+Home Goods_Product_117,74.91,Home Goods
+Home Goods_Product_169,73.01,Home Goods
+Home Goods_Product_148,76.63,Home Goods
+Electronics_Product_31,99.23,Electronics
+Clothing_Product_147,82.52,Clothing
+Groceries_Product_66,63.76,Groceries
+Home Goods_Product_62,28.1,Home Goods
+Electronics_Product_53,35.02,Electronics
+Clothing_Product_93,37.8,Clothing
+Groceries_Product_9,41.05,Groceries
+Clothing_Product_80,87.3,Clothing
+Electronics_Product_35,68.31,Electronics
+Groceries_Product_47,91.72,Groceries
+Home Goods_Product_97,14.85,Home Goods
+Home Goods_Product_181,35.95,Home Goods
+Groceries_Product_1,6.04,Groceries
+Groceries_Product_99,9.6,Groceries
+Electronics_Product_74,23.66,Electronics
+Groceries_Product_77,9.19,Groceries
+Groceries_Product_155,47.11,Groceries
+Electronics_Product_103,5.1,Electronics
+Home Goods_Product_112,73.36,Home Goods
+Groceries_Product_185,37.62,Groceries
+Clothing_Product_152,48.98,Clothing
+Electronics_Product_154,90.93,Electronics
+Electronics_Product_121,55.59,Electronics
+Clothing_Product_81,32.73,Clothing
+Groceries_Product_57,96.94,Groceries
+Groceries_Product_4,67.71,Groceries
+Electronics_Product_182,3.76,Electronics
+Electronics_Product_152,99.59,Electronics
+Groceries_Product_157,79.53,Groceries
+Home Goods_Product_180,95.4,Home Goods
+Groceries_Product_50,42.79,Groceries
+Electronics_Product_34,75.92,Electronics
+Groceries_Product_90,88.64,Groceries
+Clothing_Product_63,9.89,Clothing
+Home Goods_Product_199,76.41,Home Goods
+Groceries_Product_12,62.15,Groceries
+Home Goods_Product_102,91.06,Home Goods
+Electronics_Product_163,8.49,Electronics
+Clothing_Product_33,47.51,Clothing
+Groceries_Product_73,69.77,Groceries
+Groceries_Product_59,79.86,Groceries
+Home Goods_Product_161,75.09,Home Goods
+Groceries_Product_5,63.92,Groceries
+Groceries_Product_52,23.52,Groceries
+Electronics_Product_33,14.09,Electronics
+Electronics_Product_30,24.1,Electronics
+Home Goods_Product_8,86.02,Home Goods
+Electronics_Product_147,34.54,Electronics
+Clothing_Product_7,36.01,Clothing
+Home Goods_Product_162,48.4,Home Goods
+Home Goods_Product_71,96.83,Home Goods
+Home Goods_Product_179,81.44,Home Goods
+Groceries_Product_115,11.92,Groceries
+Groceries_Product_194,31.06,Groceries
+Home Goods_Product_200,48.21,Home Goods
+Groceries_Product_134,70.35,Groceries
+Clothing_Product_185,60.1,Clothing
+Home Goods_Product_54,28.53,Home Goods
+Home Goods_Product_132,84.1,Home Goods
+Groceries_Product_27,50.63,Groceries
+Clothing_Product_58,95.99,Clothing
+Groceries_Product_46,92.56,Groceries
+Clothing_Product_67,96.76,Clothing
+Home Goods_Product_12,68.28,Home Goods
+Electronics_Product_178,12.39,Electronics
+Clothing_Product_88,79.09,Clothing
+Home Goods_Product_134,74.04,Home Goods
+Electronics_Product_123,53.51,Electronics
+Home Goods_Product_38,76.18,Home Goods
+Clothing_Product_173,82.95,Clothing
+Groceries_Product_70,46.21,Groceries
+Groceries_Product_191,55.36,Groceries
+Clothing_Product_193,17.25,Clothing
+Groceries_Product_26,37.42,Groceries
+Clothing_Product_47,33.1,Clothing
+Clothing_Product_192,66.65,Clothing
+Electronics_Product_174,3.79,Electronics
+Electronics_Product_39,71.32,Electronics
+Electronics_Product_66,8.66,Electronics
+Clothing_Product_154,77.52,Clothing
+Electronics_Product_100,30.48,Electronics
+Electronics_Product_112,87.14,Electronics
+Groceries_Product_72,11.72,Groceries
+Clothing_Product_96,32.26,Clothing
+Electronics_Product_86,10.38,Electronics
+Electronics_Product_11,31.47,Electronics
+Groceries_Product_82,94.57,Groceries
+Electronics_Product_145,32.95,Electronics
+Groceries_Product_126,6.49,Groceries
+Home Goods_Product_187,43.05,Home Goods
+Clothing_Product_28,77.47,Clothing
+Clothing_Product_54,56.17,Clothing
+Clothing_Product_75,26.59,Clothing
+Groceries_Product_159,58.49,Groceries
+Home Goods_Product_66,74.79,Home Goods
+Groceries_Product_38,51.65,Groceries
+Groceries_Product_40,75.54,Groceries
+Electronics_Product_2,66.44,Electronics
+Home Goods_Product_76,17.87,Home Goods
+Groceries_Product_196,17.38,Groceries
+Groceries_Product_61,34.73,Groceries
+Groceries_Product_187,52.86,Groceries
+Clothing_Product_98,85.39,Clothing
+Electronics_Product_127,83.2,Electronics
+Groceries_Product_117,51.91,Groceries
+Electronics_Product_142,33.09,Electronics
+Electronics_Product_188,50.49,Electronics
+Electronics_Product_194,68.58,Electronics
+Electronics_Product_1,40.42,Electronics
+Home Goods_Product_157,65.48,Home Goods
+Clothing_Product_110,76.96,Clothing
+Groceries_Product_105,42.65,Groceries
+Clothing_Product_126,80.96,Clothing
+Home Goods_Product_64,84.07,Home Goods
+Groceries_Product_142,22.55,Groceries
+Clothing_Product_171,23.11,Clothing
+Electronics_Product_10,34.64,Electronics
+Electronics_Product_124,35.97,Electronics
+Home Goods_Product_9,60.82,Home Goods
+Home Goods_Product_28,54.87,Home Goods
+Clothing_Product_36,37.32,Clothing
+Home Goods_Product_197,36.42,Home Goods
+Electronics_Product_167,75.91,Electronics
+Electronics_Product_4,94.34,Electronics
+Groceries_Product_45,66.14,Groceries
+Home Goods_Product_19,84.01,Home Goods
+Home Goods_Product_7,3.6,Home Goods
+Groceries_Product_58,86.64,Groceries
+Home Goods_Product_159,32.22,Home Goods
+Electronics_Product_149,90.76,Electronics
+Groceries_Product_139,34.52,Groceries
+Groceries_Product_31,72.32,Groceries
+Home Goods_Product_165,95.51,Home Goods
+Electronics_Product_26,10.08,Electronics
+Electronics_Product_186,90.16,Electronics
+Clothing_Product_182,22.06,Clothing
+Clothing_Product_19,99.43,Clothing
+Home Goods_Product_119,92.67,Home Goods
+Electronics_Product_155,16.51,Electronics
+Electronics_Product_165,64.87,Electronics
+Electronics_Product_77,30.75,Electronics
+Home Goods_Product_168,52.74,Home Goods
+Electronics_Product_180,95.77,Electronics
+Clothing_Product_12,6.88,Clothing
+Groceries_Product_63,89.86,Groceries
+Home Goods_Product_23,84.98,Home Goods
+Electronics_Product_9,20.11,Electronics
+Electronics_Product_7,23.05,Electronics
+Electronics_Product_97,87.45,Electronics
+Home Goods_Product_105,31.07,Home Goods
+Electronics_Product_5,9.93,Electronics
+Electronics_Product_32,43.17,Electronics
+Clothing_Product_191,99.15,Clothing
+Electronics_Product_95,94.24,Electronics
+Groceries_Product_178,32.45,Groceries
+Groceries_Product_173,43.11,Groceries
+Clothing_Product_108,96.69,Clothing
+Clothing_Product_105,73.07,Clothing
+Groceries_Product_141,32.4,Groceries
+Groceries_Product_200,98.51,Groceries
+Electronics_Product_3,22.52,Electronics
+Electronics_Product_130,5.02,Electronics
+Clothing_Product_44,15.51,Clothing
+Electronics_Product_153,5.45,Electronics
+Clothing_Product_60,21.6,Clothing
+Groceries_Product_109,48.04,Groceries
+Electronics_Product_49,66.12,Electronics
+Home Goods_Product_34,50.25,Home Goods
+Home Goods_Product_130,98.76,Home Goods
+Electronics_Product_138,91.14,Electronics
+Electronics_Product_68,42.3,Electronics
+Groceries_Product_136,76.3,Groceries
+Clothing_Product_43,72.01,Clothing
+Clothing_Product_82,88.9,Clothing
+Clothing_Product_11,28.33,Clothing
+Groceries_Product_128,28.2,Groceries
+Clothing_Product_62,97.47,Clothing
+Clothing_Product_128,9.97,Clothing
+Electronics_Product_151,86.76,Electronics
+Electronics_Product_177,25.14,Electronics
+Home Goods_Product_40,98.7,Home Goods
+Clothing_Product_190,43.89,Clothing
+Electronics_Product_62,26.64,Electronics
+Electronics_Product_156,43.12,Electronics
+Clothing_Product_165,92.05,Clothing
+Electronics_Product_51,32.42,Electronics
+Electronics_Product_96,47.65,Electronics
+Groceries_Product_160,99.58,Groceries
+Electronics_Product_141,25.58,Electronics
+Home Goods_Product_104,43.06,Home Goods
+Clothing_Product_197,95.41,Clothing
+Home Goods_Product_136,20.71,Home Goods
+Clothing_Product_157,4.39,Clothing
+Electronics_Product_42,38.81,Electronics
+Clothing_Product_118,78.38,Clothing
+Electronics_Product_87,34.64,Electronics
+Groceries_Product_35,37.63,Groceries
+Electronics_Product_75,85.48,Electronics
+Home Goods_Product_49,22.89,Home Goods
+Electronics_Product_191,31.83,Electronics
+Groceries_Product_79,47.67,Groceries
+Clothing_Product_84,95.01,Clothing
+Electronics_Product_108,94.02,Electronics
+Electronics_Product_176,92.59,Electronics
+Clothing_Product_53,38.36,Clothing
+Home Goods_Product_65,97.23,Home Goods
+Groceries_Product_153,8.42,Groceries
+Groceries_Product_98,75.14,Groceries
+Clothing_Product_79,3.26,Clothing
+Electronics_Product_81,6.38,Electronics
+Clothing_Product_141,3.76,Clothing
+Groceries_Product_193,55.48,Groceries
+Electronics_Product_119,8.35,Electronics
+Clothing_Product_52,77.34,Clothing
+Electronics_Product_14,94.88,Electronics
+Home Goods_Product_2,52.6,Home Goods
+Groceries_Product_2,62.07,Groceries
+Groceries_Product_100,30.38,Groceries
+Electronics_Product_84,7.42,Electronics
+Electronics_Product_41,89.61,Electronics
+Home Goods_Product_113,88.47,Home Goods
+Clothing_Product_177,68.44,Clothing
+Electronics_Product_196,19.7,Electronics
+Clothing_Product_61,11.63,Clothing
+Home Goods_Product_31,69.95,Home Goods
+Clothing_Product_109,32.43,Clothing
+Home Goods_Product_85,99.94,Home Goods
+Groceries_Product_180,32.8,Groceries
+Electronics_Product_107,17.73,Electronics
+Home Goods_Product_75,37.31,Home Goods
+Clothing_Product_125,18.68,Clothing
+Home Goods_Product_94,77.67,Home Goods
+Home Goods_Product_6,34.58,Home Goods
+Groceries_Product_116,35.59,Groceries
+Clothing_Product_117,53.13,Clothing
+Electronics_Product_140,8.16,Electronics
+Home Goods_Product_44,49.88,Home Goods
+Electronics_Product_99,87.65,Electronics
+Home Goods_Product_15,96.73,Home Goods
+Electronics_Product_113,73.22,Electronics
+Home Goods_Product_70,40.25,Home Goods
+Clothing_Product_48,62.84,Clothing
+Electronics_Product_200,50.9,Electronics
+Electronics_Product_160,39.44,Electronics
+Electronics_Product_64,13.32,Electronics
+Electronics_Product_199,61.57,Electronics
+Electronics_Product_136,18.5,Electronics
+Home Goods_Product_190,92.77,Home Goods
+Groceries_Product_166,87.52,Groceries
+Clothing_Product_76,46.9,Clothing
+Groceries_Product_165,48.27,Groceries
+Electronics_Product_166,97.85,Electronics
+Home Goods_Product_184,23.15,Home Goods
+Groceries_Product_163,92.26,Groceries
+Electronics_Product_90,36.19,Electronics
+Clothing_Product_184,88.37,Clothing
+Clothing_Product_102,14.13,Clothing
+Home Goods_Product_72,23.79,Home Goods
+Electronics_Product_134,32.02,Electronics
+Clothing_Product_172,94.95,Clothing
+Groceries_Product_127,8.74,Groceries
+Home Goods_Product_95,90.1,Home Goods
+Home Goods_Product_108,8.89,Home Goods
+Home Goods_Product_185,57.21,Home Goods
+Electronics_Product_135,42.54,Electronics
+Home Goods_Product_122,91.35,Home Goods
+Clothing_Product_196,48.0,Clothing
+Home Goods_Product_186,36.07,Home Goods
+Clothing_Product_137,36.91,Clothing
+Clothing_Product_97,56.45,Clothing
+Electronics_Product_131,21.4,Electronics
+Electronics_Product_60,91.58,Electronics
+Clothing_Product_122,87.72,Clothing
+Home Goods_Product_16,22.47,Home Goods
+Electronics_Product_173,15.43,Electronics
+Home Goods_Product_145,24.71,Home Goods
+Clothing_Product_8,7.96,Clothing
+Electronics_Product_13,41.34,Electronics
+Groceries_Product_76,15.47,Groceries
+Electronics_Product_54,2.46,Electronics
+Home Goods_Product_118,15.61,Home Goods
+Home Goods_Product_59,14.21,Home Goods
+Clothing_Product_186,8.17,Clothing
+Clothing_Product_164,74.37,Clothing
+Groceries_Product_144,88.49,Groceries
+Clothing_Product_71,56.89,Clothing
+Clothing_Product_158,5.36,Clothing
+Groceries_Product_199,51.74,Groceries
+Electronics_Product_76,73.33,Electronics
+Electronics_Product_184,26.48,Electronics
+Electronics_Product_187,57.65,Electronics
+Home Goods_Product_87,84.84,Home Goods
+Electronics_Product_65,26.12,Electronics
+Clothing_Product_16,47.53,Clothing
+Electronics_Product_40,13.14,Electronics
+Clothing_Product_148,58.81,Clothing
+Electronics_Product_122,88.46,Electronics
+Home Goods_Product_193,81.1,Home Goods
+Home Goods_Product_139,2.46,Home Goods
+Home Goods_Product_1,64.93,Home Goods
+Electronics_Product_88,64.17,Electronics
+Clothing_Product_140,50.11,Clothing
+Home Goods_Product_176,30.32,Home Goods
+Home Goods_Product_164,67.84,Home Goods
+Electronics_Product_192,94.7,Electronics
+Home Goods_Product_51,49.1,Home Goods
+Electronics_Product_63,35.65,Electronics
+Groceries_Product_130,81.92,Groceries
+Clothing_Product_114,9.67,Clothing
+Electronics_Product_92,4.08,Electronics
+Electronics_Product_91,24.53,Electronics
+Clothing_Product_5,14.43,Clothing
+Clothing_Product_115,67.44,Clothing
+Home Goods_Product_30,67.67,Home Goods
+Home Goods_Product_21,85.35,Home Goods
+Clothing_Product_3,40.23,Clothing
+Home Goods_Product_152,81.08,Home Goods
+Clothing_Product_163,9.02,Clothing
+Home Goods_Product_14,77.9,Home Goods
+Clothing_Product_116,2.27,Clothing
+Home Goods_Product_110,23.73,Home Goods
+Electronics_Product_22,90.04,Electronics
+Electronics_Product_150,76.23,Electronics
+Electronics_Product_52,52.23,Electronics
+Home Goods_Product_26,76.33,Home Goods
+Clothing_Product_74,48.6,Clothing
+Home Goods_Product_191,35.72,Home Goods
+Home Goods_Product_147,67.64,Home Goods
+Home Goods_Product_63,60.23,Home Goods
+Electronics_Product_58,36.03,Electronics
+Clothing_Product_131,74.67,Clothing
+Clothing_Product_168,55.79,Clothing
+Electronics_Product_83,23.71,Electronics
+Electronics_Product_164,39.81,Electronics
+Clothing_Product_94,27.59,Clothing
+Electronics_Product_144,25.2,Electronics
+Clothing_Product_112,6.24,Clothing
+Clothing_Product_175,49.32,Clothing
+Electronics_Product_183,78.02,Electronics
+Home Goods_Product_137,94.29,Home Goods
+Groceries_Product_69,80.85,Groceries
+Groceries_Product_56,42.67,Groceries
+Home Goods_Product_39,67.04,Home Goods
+Home Goods_Product_125,94.8,Home Goods
+Clothing_Product_161,75.98,Clothing
+Electronics_Product_189,2.95,Electronics
+Clothing_Product_181,66.47,Clothing
+Home Goods_Product_82,14.41,Home Goods
+Home Goods_Product_53,8.49,Home Goods
+Home Goods_Product_80,12.62,Home Goods
+Clothing_Product_143,61.64,Clothing
+Clothing_Product_29,16.6,Clothing
+Home Goods_Product_175,88.41,Home Goods
+Clothing_Product_103,87.65,Clothing
+Home Goods_Product_106,78.67,Home Goods
+Electronics_Product_23,20.35,Electronics
+Home Goods_Product_101,55.09,Home Goods
+Clothing_Product_37,28.92,Clothing
+Electronics_Product_48,53.25,Electronics
+Home Goods_Product_67,10.49,Home Goods
+Clothing_Product_160,2.2,Clothing
+Electronics_Product_146,85.17,Electronics
+Home Goods_Product_4,71.06,Home Goods
+Clothing_Product_50,85.33,Clothing
+Electronics_Product_36,82.3,Electronics
+Electronics_Product_129,26.86,Electronics
+Clothing_Product_101,58.89,Clothing
+Clothing_Product_178,74.51,Clothing
+Electronics_Product_82,39.08,Electronics
+Clothing_Product_142,64.23,Clothing
+Clothing_Product_119,39.14,Clothing
+Electronics_Product_69,48.91,Electronics
+Electronics_Product_6,64.35,Electronics
+Electronics_Product_67,51.3,Electronics
+Home Goods_Product_144,2.19,Home Goods
+Home Goods_Product_156,9.72,Home Goods
+Home Goods_Product_92,32.8,Home Goods
+Clothing_Product_95,25.9,Clothing
+Home Goods_Product_149,79.99,Home Goods
+Groceries_Product_95,64.0,Groceries
+Clothing_Product_64,77.81,Clothing
+Home Goods_Product_177,39.56,Home Goods
+Clothing_Product_136,22.04,Clothing
+Home Goods_Product_103,85.39,Home Goods
+Home Goods_Product_153,59.32,Home Goods
+Electronics_Product_72,48.78,Electronics
+Home Goods_Product_52,31.39,Home Goods
+Groceries_Product_119,97.98,Groceries
+Electronics_Product_70,57.4,Electronics
+Home Goods_Product_138,98.32,Home Goods
+Home Goods_Product_5,99.89,Home Goods
+Home Goods_Product_25,7.5,Home Goods
+Home Goods_Product_114,58.51,Home Goods
+Electronics_Product_117,36.75,Electronics
+Home Goods_Product_99,95.54,Home Goods
+Clothing_Product_113,35.12,Clothing
+Clothing_Product_30,77.93,Clothing
+Electronics_Product_56,84.16,Electronics
+Clothing_Product_27,98.34,Clothing
+Home Goods_Product_47,73.06,Home Goods
+Clothing_Product_32,8.52,Clothing
+Electronics_Product_193,94.31,Electronics
+Clothing_Product_35,27.52,Clothing
+Electronics_Product_109,5.22,Electronics
+Home Goods_Product_50,13.22,Home Goods
+Clothing_Product_55,46.6,Clothing
+Clothing_Product_130,42.93,Clothing
+Home Goods_Product_55,63.38,Home Goods
+Clothing_Product_129,69.61,Clothing
+Clothing_Product_49,52.07,Clothing
+Electronics_Product_47,12.93,Electronics
+Home Goods_Product_22,19.71,Home Goods
+Clothing_Product_124,48.53,Clothing
+Home Goods_Product_126,53.06,Home Goods
+Home Goods_Product_48,15.38,Home Goods
+Home Goods_Product_100,69.07,Home Goods
+Home Goods_Product_74,54.37,Home Goods
+Groceries_Product_11,26.26,Groceries
+Electronics_Product_157,28.75,Electronics
+Clothing_Product_87,95.87,Clothing
+Clothing_Product_42,96.73,Clothing
+Clothing_Product_31,89.55,Clothing
+Home Goods_Product_60,20.86,Home Goods
+Electronics_Product_46,11.44,Electronics
+Electronics_Product_133,18.82,Electronics
+Electronics_Product_20,46.5,Electronics
+Clothing_Product_73,51.85,Clothing
+Clothing_Product_176,5.92,Clothing
+Clothing_Product_194,29.99,Clothing
+Clothing_Product_189,50.78,Clothing
+Electronics_Product_197,3.44,Electronics
+Home Goods_Product_42,4.39,Home Goods
+Clothing_Product_107,84.33,Clothing
+Clothing_Product_159,92.21,Clothing
+Clothing_Product_195,69.16,Clothing
+Clothing_Product_13,39.74,Clothing
+Home Goods_Product_37,8.26,Home Goods
+Electronics_Product_98,15.81,Electronics
+Clothing_Product_38,22.73,Clothing
+Electronics_Product_118,29.5,Electronics
+Home Goods_Product_61,99.26,Home Goods
+Home Goods_Product_98,44.18,Home Goods
+Home Goods_Product_120,36.48,Home Goods
+Clothing_Product_89,21.24,Clothing
+Home Goods_Product_29,35.99,Home Goods
+Clothing_Product_188,67.56,Clothing
+Electronics_Product_24,13.83,Electronics
+Clothing_Product_85,32.83,Clothing
+Electronics_Product_126,58.73,Electronics
+Clothing_Product_135,42.68,Clothing
+Clothing_Product_199,7.21,Clothing
+Home Goods_Product_167,21.34,Home Goods
+Clothing_Product_153,38.12,Clothing
+Electronics_Product_73,14.72,Electronics
+Home Goods_Product_43,86.45,Home Goods
+Clothing_Product_17,69.14,Clothing
+Home Goods_Product_166,72.36,Home Goods
+Clothing_Product_51,81.54,Clothing
+Clothing_Product_39,27.72,Clothing
+Electronics_Product_125,28.34,Electronics
+Clothing_Product_83,57.02,Clothing
+Home Goods_Product_18,45.93,Home Goods
+Clothing_Product_198,46.11,Clothing
+Clothing_Product_9,86.37,Clothing
+Home Goods_Product_173,72.13,Home Goods
+Home Goods_Product_96,37.8,Home Goods
+Home Goods_Product_13,42.26,Home Goods
+Home Goods_Product_128,70.0,Home Goods
+Electronics_Product_115,34.94,Electronics
+Clothing_Product_123,42.68,Clothing
+Electronics_Product_25,43.38,Electronics
+Clothing_Product_78,36.28,Clothing
+Home Goods_Product_17,21.84,Home Goods
+Electronics_Product_12,54.24,Electronics
+Electronics_Product_27,7.04,Electronics
+Home Goods_Product_24,58.95,Home Goods
+Clothing_Product_72,98.85,Clothing
+Home Goods_Product_143,16.95,Home Goods
+Clothing_Product_21,43.63,Clothing
+Home Goods_Product_171,96.35,Home Goods
+Home Goods_Product_155,52.98,Home Goods
+Clothing_Product_24,79.82,Clothing
+Electronics_Product_102,44.62,Electronics
+Home Goods_Product_81,4.66,Home Goods
+Clothing_Product_18,18.89,Clothing
+Clothing_Product_139,99.52,Clothing
+Home Goods_Product_151,30.53,Home Goods
+Clothing_Product_57,40.95,Clothing
+Clothing_Product_183,73.37,Clothing
+Home Goods_Product_146,2.35,Home Goods
+Electronics_Product_16,9.31,Electronics
+Home Goods_Product_79,85.62,Home Goods
+Clothing_Product_138,36.85,Clothing
+Clothing_Product_120,50.47,Clothing
+Clothing_Product_104,50.84,Clothing
