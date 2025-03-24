@@ -55,7 +55,7 @@ The dataset simulates real-world sales data pulled from:
 ---
 
 ## **Dataset Description**
-- **Rows:** 1,600,000 (including 0.5% duplicates)  
+- **Rows:** 1,500,000 (including 0.5% duplicates)  
 - **Columns:** 14  
 - **Attributes:**  
     - `transaction_id`: Unique identifier for each transaction.  
@@ -77,6 +77,6 @@ The dataset simulates real-world sales data pulled from:
 
 ### 🛠️ **Data Generation Code**
 The dataset was generated using the Python script below:  
-[Link to Data Generation Notebook](https://github.com/HSSC01/Portfolio/tree/main/Retail%Chain%Project/retail_chain_synthetic_data_generation.ipynb)  
+[Link to Data Generation Notebook](https://github.com/HSSC01/Portfolio/blob/main/Retail%20Chain%20Project/code/retail_chain_synthetic_data_generation.ipynb)  
 
 ---
