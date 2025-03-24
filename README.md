@@ -21,5 +21,5 @@ This project, chosen as part of the **IBM** course projects, focuses on analysin
 
 
 ## Contact
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/honsingsamchung/)
+- LinkedIn: [linkedin.com/in/honsingsamchung](https://www.linkedin.com/in/honsingsamchung/)
 
