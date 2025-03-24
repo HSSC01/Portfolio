@@ -36,6 +36,16 @@ The dataset simulates real-world sales data pulled from:
 ---
 
 ### **Main Objectives of the Project**
+- Generate **1.5million rows** of synthetic data by:
+  - Generating customer demographics (e.g., age, gender, location, income level).
+  - Implementing realistic purchase behaviour, such as:
+    - Randomising purchase frequency per customer.
+    - Assigning discounts, promotions, and sales events to certain transactions.
+    - Simulating payment methods used in the transactions (e.g., credit card, cash, mobile payment).
+  - Adding some realistic messiness, such as:
+    - Generating a mix of wrong formats for certain data points (e.g., dates in different formats).
+    - Introducing missing values in some columns (e.g., incomplete customer details, missing transaction data).
+    - Adding duplicates where necessary to simulate errors in large datasets.
 - Clean and standardise the dataset by:  
   - Removing duplicates.  
   - Handling missing values.  
