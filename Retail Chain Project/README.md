@@ -65,23 +65,35 @@ The dataset simulates real-world sales data pulled from:
 ---
 
 ## **Dataset Description**
-- **Rows:** 1,500,000 (including 0.5% duplicates)  
-- **Columns:** 14  
-- **Attributes:**  
-    - `transaction_id`: Unique identifier for each transaction.  
-    - `customer_id`: Unique customer ID.  
-    - `store_id`: Store location (including online).  
-    - `date`: Transaction date (with some inconsistent formats).  
-    - `product_category`: Category of the purchased item.  
-    - `product_name`: Product name.  
-    - `quantity`: Number of items purchased.  
-    - `unit_price`: Price per unit.  
-    - `total_amount`: Total transaction amount.  
-    - `payment_method`: Payment method used.  
-    - `discount_applied`: Discount percentage applied.  
-    - `customer_age`: Age of the customer (with some missing values).  
-    - `customer_gender`: Gender of the customer (with some missing values).  
-    - `online_order`: 1 = online, 0 = physical store.  
+
+### **1. Point of Sales (POS) Data** (~1.5 million rows of transactions)
+
+- **Columns:**
+  - `transaction_id`: Unique identifier for each transaction.  
+  - `customer_id`: Unique customer ID (links to the customer dataset).  
+  - `store_id`: Store location (including online).  
+  - `date`: Transaction date (with some inconsistent formats).  
+  - `category`: Category of the purchased item (links to the product dataset).  
+  - `product_name`: Product name (links to the product dataset).  
+  - `quantity`: Number of items purchased.  
+  - `payment_method`: Payment method used (e.g., credit card, cash, mobile payment).  
+  - `discount_applied`: Discount percentage applied to the transaction.  
+  - `online_order`: 1 = online, 0 = physical store.
+
+### **2. Customer Data** (~700k unique customers/rows)
+
+- **Columns:**
+  - `customer_id`: Unique customer ID (links to the POS dataset).  
+  - `age`: Age of the customer (with some missing values).  
+  - `gender`: Gender of the customer (with some missing values).
+
+### **3. Product Data** (~800 products)
+
+- **Columns:**
+  - `product_name`: Name of the product (links to the POS dataset).  
+  - `unit_price`: Price per unit of the product.  
+  - `category`: Category of the product (e.g., Electronics, Fashion, Home Appliances).
+
 
 ---
 
