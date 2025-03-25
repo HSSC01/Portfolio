@@ -17,7 +17,7 @@ An end-to-end **data engineering and analysis project** simulating a retail chai
 ### [Telco Customer Churn](https://github.com/HSSC01/Portfolio/tree/main/Telco%20Customer%20Churn)
 This project, chosen as part of the **IBM** course projects, focuses on analysing customer churn in a telecommunications company. It includes steps such as **Exploratory Data Analysis (EDA)**, **feature engineering**, and the application of **supervised machine learning** techniques. The goal is to build and evaluate models that predict customer churn, using various classification algorithms to identify key factors influencing customer retention.
 
-**Skills** - Python, EDA (Exploratory Data Analysis), Data Visualisation, Feature Engineering, Supervised Machine Learning, Pipelines
+**Skills:** Python, EDA (Exploratory Data Analysis), Data Visualisation, Feature Engineering, Supervised Machine Learning, Pipelines
 
 
 ## Contact
