@@ -3,7 +3,7 @@ This project uses a **synthetically generated dataset** that simulates real-worl
 
 - The **dataset** was generated using Python and includes **1.5 million rows** of transactional data.  
 - The **business scenario** and challenges were provided by ChatGPT, mimicking realistic struggles a retail company may face.  
-- The **goal** of this project is to **perform data cleaning, exploratory data analysis (EDA)**, and create a **Power BI dashboard** to extract actionable insights.  
+- The **goal** of this project is to **perform data cleaning, exploratory data analysis (EDA)**, and create a **written report** to highlight actionable insights.  
 
 ### **Company Overview**
 Client is a multi-channel retail chain operating in the UK.  
@@ -55,12 +55,7 @@ The dataset simulates real-world sales data pulled from:
   - Compare online vs in-store performance.  
   - Analyse customer demographics.  
   - Examine payment method trends.  
-- Create a **Power BI dashboard** to visualise insights, including:  
-  - Sales performance by category and store.  
-  - Discount and promotion analysis.  
-  - Customer demographics trends.  
-  - Online vs in-store sales comparison.  
-  - Payment method preferences.  
+
 
 ---
 
