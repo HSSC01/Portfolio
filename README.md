@@ -19,11 +19,6 @@ This project, chosen as part of the **IBM** course projects, focuses on analysin
 **Skills:** Python, EDA (Exploratory Data Analysis), Data Visualisation, Feature Engineering, Supervised Machine Learning, Pipelines
 
 
-### [BlackJack](https://github.com/HSSC01/Portfolio/tree/main/BlackJack)
-An on-going, for-fun project creating a BlackJack game using general Python and NumPy techniques. Currently functioning but would like to include features such as wagering, other actions like Double Down or Surrender, and eventually add graphics.
-
-**Skills:** Python, NumPy, Random
-
 ## Contact
 - LinkedIn: [linkedin.com/in/honsingsamchung](https://www.linkedin.com/in/honsingsamchung/)
 - Email: [honsingsamchung@outlook.com](mailto:honsingsamchung@outlook.com)
