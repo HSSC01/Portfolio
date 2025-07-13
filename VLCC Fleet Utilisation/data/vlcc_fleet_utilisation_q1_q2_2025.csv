@@ -1,0 +1,301 @@
+Vessel_ID,Vessel_Name,Date,Region,Route,DWT,Status,Idle_Days,Loaded_Days,Ballast_Days
+VLCC001,Vessel_1,01/01/2025,North Sea,NS-Asia,310387,Loaded,8,15,8
+VLCC001,Vessel_1,01/02/2025,Caribbean,MEG-China,318565,Loaded,11,15,2
+VLCC001,Vessel_1,01/03/2025,Caribbean,NS-Asia,316009,Loaded,14,16,1
+VLCC001,Vessel_1,01/04/2025,MEG,NS-Asia,296325,Loaded,10,16,4
+VLCC001,Vessel_1,01/05/2025,US Gulf,Carib-US East Coast,295747,Loaded,7,20,4
+VLCC001,Vessel_1,01/06/2025,US Gulf,USG-Europe,309176,Loaded,12,18,0
+VLCC002,Vessel_2,01/01/2025,MEG,USG-Europe,309980,Loaded,7,24,0
+VLCC002,Vessel_2,01/02/2025,US Gulf,NS-Asia,298257,Loaded,1,27,0
+VLCC002,Vessel_2,01/03/2025,US Gulf,MEG-China,307889,Loaded,9,17,5
+VLCC002,Vessel_2,01/04/2025,West Africa,WAF-US Gulf,311872,Loaded,7,21,2
+VLCC002,Vessel_2,01/05/2025,US Gulf,USG-Europe,301613,Loaded,0,31,0
+VLCC002,Vessel_2,01/06/2025,MEG,WAF-US Gulf,308182,Loaded,0,27,3
+VLCC003,Vessel_3,01/01/2025,Caribbean,NS-Asia,313838,Loaded,2,24,5
+VLCC003,Vessel_3,01/02/2025,West Africa,USG-Europe,314805,Loaded,4,18,6
+VLCC003,Vessel_3,01/03/2025,MEG,MEG-China,294966,Loaded,2,20,9
+VLCC003,Vessel_3,01/04/2025,MEG,NS-Asia,290286,Loaded,4,17,9
+VLCC003,Vessel_3,01/05/2025,West Africa,USG-Europe,293350,Loaded,0,17,14
+VLCC003,Vessel_3,01/06/2025,North Sea,Carib-US East Coast,299248,Loaded,4,22,4
+VLCC004,Vessel_4,01/01/2025,MEG,USG-Europe,294460,Loaded,0,31,0
+VLCC004,Vessel_4,01/02/2025,MEG,MEG-China,308197,Loaded,0,19,9
+VLCC004,Vessel_4,01/03/2025,US Gulf,Carib-US East Coast,301069,Loaded,0,30,1
+VLCC004,Vessel_4,01/04/2025,Caribbean,MEG-China,301231,Loaded,2,23,5
+VLCC004,Vessel_4,01/05/2025,Caribbean,NS-Asia,299481,Loaded,9,22,0
+VLCC004,Vessel_4,01/06/2025,MEG,USG-Europe,297931,Loaded,2,24,4
+VLCC005,Vessel_5,01/01/2025,MEG,USG-Europe,294435,Loaded,1,30,0
+VLCC005,Vessel_5,01/02/2025,West Africa,USG-Europe,318285,Loaded,9,16,3
+VLCC005,Vessel_5,01/03/2025,Caribbean,Carib-US East Coast,316793,Loaded,0,30,1
+VLCC005,Vessel_5,01/04/2025,US Gulf,Carib-US East Coast,290054,Loaded,4,15,11
+VLCC005,Vessel_5,01/05/2025,MEG,USG-Europe,293122,Loaded,0,30,1
+VLCC005,Vessel_5,01/06/2025,US Gulf,NS-Asia,311302,Loaded,0,30,0
+VLCC006,Vessel_6,01/01/2025,Caribbean,NS-Asia,302373,Loaded,1,24,6
+VLCC006,Vessel_6,01/02/2025,West Africa,MEG-China,309898,Loaded,12,16,0
+VLCC006,Vessel_6,01/03/2025,Caribbean,USG-Europe,300740,Loaded,0,30,1
+VLCC006,Vessel_6,01/04/2025,Caribbean,USG-Europe,301229,Loaded,2,28,0
+VLCC006,Vessel_6,01/05/2025,West Africa,Carib-US East Coast,290824,Loaded,0,25,6
+VLCC006,Vessel_6,01/06/2025,US Gulf,Carib-US East Coast,303223,Loaded,0,27,3
+VLCC007,Vessel_7,01/01/2025,North Sea,MEG-China,311690,Loaded,0,30,1
+VLCC007,Vessel_7,01/02/2025,West Africa,USG-Europe,312648,Loaded,1,26,1
+VLCC007,Vessel_7,01/03/2025,MEG,MEG-China,303453,Loaded,5,24,2
+VLCC007,Vessel_7,01/04/2025,Caribbean,MEG-China,300312,Loaded,2,19,9
+VLCC007,Vessel_7,01/05/2025,West Africa,Carib-US East Coast,293542,Loaded,4,26,1
+VLCC007,Vessel_7,01/06/2025,North Sea,Carib-US East Coast,318203,Loaded,2,28,0
+VLCC008,Vessel_8,01/01/2025,North Sea,WAF-US Gulf,294801,Loaded,5,25,1
+VLCC008,Vessel_8,01/02/2025,US Gulf,MEG-China,294715,Loaded,7,20,1
+VLCC008,Vessel_8,01/03/2025,MEG,MEG-China,319313,Loaded,5,20,6
+VLCC008,Vessel_8,01/04/2025,North Sea,Carib-US East Coast,300819,Loaded,10,18,2
+VLCC008,Vessel_8,01/05/2025,Caribbean,Carib-US East Coast,315855,Loaded,10,16,5
+VLCC008,Vessel_8,01/06/2025,West Africa,WAF-US Gulf,293458,Loaded,5,17,8
+VLCC009,Vessel_9,01/01/2025,Caribbean,MEG-China,314279,Loaded,0,27,4
+VLCC009,Vessel_9,01/02/2025,West Africa,WAF-US Gulf,303717,Loaded,0,28,0
+VLCC009,Vessel_9,01/03/2025,US Gulf,Carib-US East Coast,297814,Loaded,1,29,1
+VLCC009,Vessel_9,01/04/2025,West Africa,WAF-US Gulf,299057,Loaded,0,15,15
+VLCC009,Vessel_9,01/05/2025,North Sea,USG-Europe,298742,Loaded,3,17,11
+VLCC009,Vessel_9,01/06/2025,MEG,WAF-US Gulf,312354,Loaded,1,23,6
+VLCC010,Vessel_10,01/01/2025,MEG,MEG-China,298295,Loaded,12,16,3
+VLCC010,Vessel_10,01/02/2025,US Gulf,WAF-US Gulf,293616,Loaded,3,25,0
+VLCC010,Vessel_10,01/03/2025,MEG,WAF-US Gulf,316175,Loaded,2,19,10
+VLCC010,Vessel_10,01/04/2025,Caribbean,MEG-China,311914,Loaded,1,29,0
+VLCC010,Vessel_10,01/05/2025,West Africa,NS-Asia,293630,Loaded,0,31,0
+VLCC010,Vessel_10,01/06/2025,West Africa,NS-Asia,291532,Loaded,0,23,7
+VLCC011,Vessel_11,01/01/2025,North Sea,MEG-China,300653,Loaded,0,30,1
+VLCC011,Vessel_11,01/02/2025,West Africa,MEG-China,292976,Loaded,2,21,5
+VLCC011,Vessel_11,01/03/2025,North Sea,Carib-US East Coast,311812,Loaded,3,28,0
+VLCC011,Vessel_11,01/04/2025,US Gulf,Carib-US East Coast,311439,Loaded,0,20,10
+VLCC011,Vessel_11,01/05/2025,North Sea,Carib-US East Coast,303222,Loaded,0,17,14
+VLCC011,Vessel_11,01/06/2025,West Africa,USG-Europe,317839,Loaded,1,19,10
+VLCC012,Vessel_12,01/01/2025,US Gulf,Carib-US East Coast,296414,Loaded,2,18,11
+VLCC012,Vessel_12,01/02/2025,US Gulf,USG-Europe,318003,Loaded,5,22,1
+VLCC012,Vessel_12,01/03/2025,US Gulf,NS-Asia,303757,Loaded,0,31,0
+VLCC012,Vessel_12,01/04/2025,MEG,MEG-China,302428,Loaded,2,27,1
+VLCC012,Vessel_12,01/05/2025,West Africa,Carib-US East Coast,299353,Loaded,3,20,8
+VLCC012,Vessel_12,01/06/2025,Caribbean,NS-Asia,312950,Loaded,5,18,7
+VLCC013,Vessel_13,01/01/2025,Caribbean,NS-Asia,316088,Loaded,2,28,1
+VLCC013,Vessel_13,01/02/2025,MEG,USG-Europe,297674,Loaded,9,19,0
+VLCC013,Vessel_13,01/03/2025,Caribbean,MEG-China,319534,Loaded,7,18,6
+VLCC013,Vessel_13,01/04/2025,Caribbean,NS-Asia,308425,Loaded,1,28,1
+VLCC013,Vessel_13,01/05/2025,North Sea,Carib-US East Coast,311679,Loaded,2,22,7
+VLCC013,Vessel_13,01/06/2025,MEG,WAF-US Gulf,319400,Loaded,0,25,5
+VLCC014,Vessel_14,01/01/2025,West Africa,MEG-China,301611,Loaded,1,18,12
+VLCC014,Vessel_14,01/02/2025,North Sea,MEG-China,293347,Loaded,1,26,1
+VLCC014,Vessel_14,01/03/2025,North Sea,Carib-US East Coast,316579,Loaded,8,18,5
+VLCC014,Vessel_14,01/04/2025,MEG,WAF-US Gulf,304794,Loaded,4,18,8
+VLCC014,Vessel_14,01/05/2025,Caribbean,USG-Europe,308718,Loaded,5,25,1
+VLCC014,Vessel_14,01/06/2025,North Sea,WAF-US Gulf,305122,Loaded,4,19,7
+VLCC015,Vessel_15,01/01/2025,Caribbean,MEG-China,294924,Loaded,4,23,4
+VLCC015,Vessel_15,01/02/2025,MEG,NS-Asia,308186,Loaded,2,20,6
+VLCC015,Vessel_15,01/03/2025,North Sea,NS-Asia,305089,Loaded,2,26,3
+VLCC015,Vessel_15,01/04/2025,North Sea,USG-Europe,308446,Loaded,5,24,1
+VLCC015,Vessel_15,01/05/2025,Caribbean,USG-Europe,299124,Loaded,5,18,8
+VLCC015,Vessel_15,01/06/2025,Caribbean,MEG-China,292596,Loaded,3,27,0
+VLCC016,Vessel_16,01/01/2025,US Gulf,WAF-US Gulf,300033,Loaded,5,18,8
+VLCC016,Vessel_16,01/02/2025,US Gulf,NS-Asia,292528,Loaded,6,21,1
+VLCC016,Vessel_16,01/03/2025,US Gulf,MEG-China,301519,Loaded,3,25,3
+VLCC016,Vessel_16,01/04/2025,Caribbean,MEG-China,295204,Loaded,0,23,7
+VLCC016,Vessel_16,01/05/2025,US Gulf,USG-Europe,304790,Loaded,3,19,9
+VLCC016,Vessel_16,01/06/2025,West Africa,NS-Asia,298887,Loaded,0,25,5
+VLCC017,Vessel_17,01/01/2025,MEG,MEG-China,313172,Loaded,7,20,4
+VLCC017,Vessel_17,01/02/2025,MEG,Carib-US East Coast,317204,Loaded,5,23,0
+VLCC017,Vessel_17,01/03/2025,West Africa,NS-Asia,293339,Loaded,0,26,5
+VLCC017,Vessel_17,01/04/2025,West Africa,MEG-China,315875,Loaded,0,29,1
+VLCC017,Vessel_17,01/05/2025,West Africa,NS-Asia,315213,Loaded,13,18,0
+VLCC017,Vessel_17,01/06/2025,North Sea,USG-Europe,317212,Loaded,7,21,2
+VLCC018,Vessel_18,01/01/2025,Caribbean,WAF-US Gulf,306511,Loaded,6,20,5
+VLCC018,Vessel_18,01/02/2025,Caribbean,NS-Asia,296978,Loaded,9,17,2
+VLCC018,Vessel_18,01/03/2025,US Gulf,WAF-US Gulf,309254,Loaded,0,31,0
+VLCC018,Vessel_18,01/04/2025,North Sea,Carib-US East Coast,314452,Loaded,5,23,2
+VLCC018,Vessel_18,01/05/2025,North Sea,WAF-US Gulf,308090,Loaded,5,25,1
+VLCC018,Vessel_18,01/06/2025,West Africa,NS-Asia,318222,Loaded,3,22,5
+VLCC019,Vessel_19,01/01/2025,West Africa,NS-Asia,316395,Loaded,2,20,9
+VLCC019,Vessel_19,01/02/2025,MEG,NS-Asia,299675,Loaded,0,28,0
+VLCC019,Vessel_19,01/03/2025,Caribbean,USG-Europe,300110,Loaded,5,24,2
+VLCC019,Vessel_19,01/04/2025,North Sea,MEG-China,293971,Loaded,8,20,2
+VLCC019,Vessel_19,01/05/2025,Caribbean,Carib-US East Coast,308605,Loaded,12,15,4
+VLCC019,Vessel_19,01/06/2025,MEG,Carib-US East Coast,310811,Loaded,9,17,4
+VLCC020,Vessel_20,01/01/2025,MEG,USG-Europe,311428,Loaded,5,23,3
+VLCC020,Vessel_20,01/02/2025,North Sea,Carib-US East Coast,310285,Loaded,10,16,2
+VLCC020,Vessel_20,01/03/2025,West Africa,USG-Europe,311083,Loaded,9,22,0
+VLCC020,Vessel_20,01/04/2025,Caribbean,USG-Europe,306749,Loaded,4,23,3
+VLCC020,Vessel_20,01/05/2025,North Sea,USG-Europe,310500,Loaded,8,18,5
+VLCC020,Vessel_20,01/06/2025,MEG,NS-Asia,295959,Loaded,6,19,5
+VLCC021,Vessel_21,01/01/2025,North Sea,WAF-US Gulf,313441,Loaded,5,22,4
+VLCC021,Vessel_21,01/02/2025,MEG,USG-Europe,297274,Loaded,5,22,1
+VLCC021,Vessel_21,01/03/2025,Caribbean,Carib-US East Coast,302663,Loaded,2,17,12
+VLCC021,Vessel_21,01/04/2025,MEG,WAF-US Gulf,290067,Loaded,0,28,2
+VLCC021,Vessel_21,01/05/2025,US Gulf,WAF-US Gulf,303793,Loaded,4,27,0
+VLCC021,Vessel_21,01/06/2025,Caribbean,USG-Europe,315976,Loaded,0,22,8
+VLCC022,Vessel_22,01/01/2025,West Africa,WAF-US Gulf,311784,Loaded,5,20,6
+VLCC022,Vessel_22,01/02/2025,MEG,Carib-US East Coast,306368,Loaded,9,19,0
+VLCC022,Vessel_22,01/03/2025,US Gulf,MEG-China,300819,Loaded,1,28,2
+VLCC022,Vessel_22,01/04/2025,West Africa,USG-Europe,306775,Loaded,4,18,8
+VLCC022,Vessel_22,01/05/2025,US Gulf,USG-Europe,319135,Loaded,2,16,13
+VLCC022,Vessel_22,01/06/2025,North Sea,MEG-China,300811,Loaded,6,15,9
+VLCC023,Vessel_23,01/01/2025,US Gulf,WAF-US Gulf,301362,Loaded,10,15,6
+VLCC023,Vessel_23,01/02/2025,North Sea,WAF-US Gulf,305013,Loaded,5,20,3
+VLCC023,Vessel_23,01/03/2025,US Gulf,NS-Asia,304403,Loaded,0,31,0
+VLCC023,Vessel_23,01/04/2025,MEG,Carib-US East Coast,292641,Loaded,6,23,1
+VLCC023,Vessel_23,01/05/2025,MEG,NS-Asia,295699,Loaded,2,19,10
+VLCC023,Vessel_23,01/06/2025,MEG,MEG-China,294283,Loaded,3,25,2
+VLCC024,Vessel_24,01/01/2025,Caribbean,NS-Asia,319582,Loaded,3,24,4
+VLCC024,Vessel_24,01/02/2025,Caribbean,USG-Europe,301180,Loaded,6,14,8
+VLCC024,Vessel_24,01/03/2025,MEG,WAF-US Gulf,301151,Loaded,0,24,7
+VLCC024,Vessel_24,01/04/2025,North Sea,NS-Asia,299563,Loaded,1,18,11
+VLCC024,Vessel_24,01/05/2025,Caribbean,MEG-China,309214,Loaded,0,30,1
+VLCC024,Vessel_24,01/06/2025,MEG,WAF-US Gulf,312145,Loaded,2,27,1
+VLCC025,Vessel_25,01/01/2025,MEG,Carib-US East Coast,305008,Loaded,7,18,6
+VLCC025,Vessel_25,01/02/2025,North Sea,NS-Asia,310605,Loaded,1,16,11
+VLCC025,Vessel_25,01/03/2025,US Gulf,USG-Europe,300262,Loaded,3,20,8
+VLCC025,Vessel_25,01/04/2025,MEG,USG-Europe,306145,Loaded,7,21,2
+VLCC025,Vessel_25,01/05/2025,North Sea,MEG-China,290037,Loaded,5,26,0
+VLCC025,Vessel_25,01/06/2025,US Gulf,WAF-US Gulf,317549,Loaded,5,18,7
+VLCC026,Vessel_26,01/01/2025,West Africa,NS-Asia,294457,Loaded,3,22,6
+VLCC026,Vessel_26,01/02/2025,MEG,USG-Europe,306695,Loaded,6,20,2
+VLCC026,Vessel_26,01/03/2025,West Africa,USG-Europe,294063,Loaded,0,31,0
+VLCC026,Vessel_26,01/04/2025,Caribbean,MEG-China,303937,Loaded,0,26,4
+VLCC026,Vessel_26,01/05/2025,North Sea,WAF-US Gulf,318107,Loaded,6,15,10
+VLCC026,Vessel_26,01/06/2025,Caribbean,WAF-US Gulf,309354,Loaded,2,23,5
+VLCC027,Vessel_27,01/01/2025,MEG,NS-Asia,310034,Loaded,3,28,0
+VLCC027,Vessel_27,01/02/2025,Caribbean,Carib-US East Coast,302905,Loaded,1,26,1
+VLCC027,Vessel_27,01/03/2025,US Gulf,MEG-China,308124,Loaded,6,21,4
+VLCC027,Vessel_27,01/04/2025,US Gulf,Carib-US East Coast,303932,Loaded,1,27,2
+VLCC027,Vessel_27,01/05/2025,MEG,USG-Europe,316924,Loaded,3,17,11
+VLCC027,Vessel_27,01/06/2025,MEG,Carib-US East Coast,300108,Loaded,5,25,0
+VLCC028,Vessel_28,01/01/2025,US Gulf,Carib-US East Coast,291650,Loaded,1,27,3
+VLCC028,Vessel_28,01/02/2025,US Gulf,WAF-US Gulf,304156,Loaded,1,18,9
+VLCC028,Vessel_28,01/03/2025,MEG,Carib-US East Coast,310507,Loaded,2,29,0
+VLCC028,Vessel_28,01/04/2025,Caribbean,Carib-US East Coast,311385,Loaded,0,17,13
+VLCC028,Vessel_28,01/05/2025,North Sea,WAF-US Gulf,305527,Loaded,9,17,5
+VLCC028,Vessel_28,01/06/2025,US Gulf,MEG-China,296062,Loaded,0,22,8
+VLCC029,Vessel_29,01/01/2025,MEG,USG-Europe,313237,Loaded,0,25,6
+VLCC029,Vessel_29,01/02/2025,Caribbean,MEG-China,303836,Loaded,3,20,5
+VLCC029,Vessel_29,01/03/2025,Caribbean,MEG-China,297612,Loaded,9,19,3
+VLCC029,Vessel_29,01/04/2025,MEG,Carib-US East Coast,298249,Loaded,3,15,12
+VLCC029,Vessel_29,01/05/2025,Caribbean,NS-Asia,301098,Loaded,0,31,0
+VLCC029,Vessel_29,01/06/2025,North Sea,MEG-China,312167,Loaded,12,15,3
+VLCC030,Vessel_30,01/01/2025,MEG,Carib-US East Coast,293613,Loaded,3,25,3
+VLCC030,Vessel_30,01/02/2025,MEG,Carib-US East Coast,318398,Loaded,4,17,7
+VLCC030,Vessel_30,01/03/2025,MEG,WAF-US Gulf,319481,Loaded,3,23,5
+VLCC030,Vessel_30,01/04/2025,US Gulf,MEG-China,299935,Loaded,1,29,0
+VLCC030,Vessel_30,01/05/2025,West Africa,WAF-US Gulf,298565,Loaded,6,23,2
+VLCC030,Vessel_30,01/06/2025,MEG,NS-Asia,313880,Loaded,4,24,2
+VLCC031,Vessel_31,01/01/2025,Caribbean,NS-Asia,316878,Loaded,7,24,0
+VLCC031,Vessel_31,01/02/2025,US Gulf,MEG-China,300535,Loaded,7,18,3
+VLCC031,Vessel_31,01/03/2025,US Gulf,Carib-US East Coast,313511,Loaded,2,20,9
+VLCC031,Vessel_31,01/04/2025,Caribbean,NS-Asia,315787,Loaded,1,21,8
+VLCC031,Vessel_31,01/05/2025,Caribbean,MEG-China,298042,Loaded,12,18,1
+VLCC031,Vessel_31,01/06/2025,MEG,WAF-US Gulf,309660,Loaded,13,15,2
+VLCC032,Vessel_32,01/01/2025,MEG,USG-Europe,296979,Loaded,2,27,2
+VLCC032,Vessel_32,01/02/2025,West Africa,USG-Europe,299844,Loaded,0,22,6
+VLCC032,Vessel_32,01/03/2025,West Africa,Carib-US East Coast,318582,Loaded,9,17,5
+VLCC032,Vessel_32,01/04/2025,Caribbean,NS-Asia,297523,Loaded,7,15,8
+VLCC032,Vessel_32,01/05/2025,West Africa,WAF-US Gulf,304665,Loaded,7,24,0
+VLCC032,Vessel_32,01/06/2025,West Africa,MEG-China,292640,Loaded,1,26,3
+VLCC033,Vessel_33,01/01/2025,MEG,MEG-China,311205,Loaded,5,22,4
+VLCC033,Vessel_33,01/02/2025,MEG,NS-Asia,308962,Loaded,0,28,0
+VLCC033,Vessel_33,01/03/2025,West Africa,USG-Europe,311807,Loaded,3,27,1
+VLCC033,Vessel_33,01/04/2025,US Gulf,USG-Europe,311253,Loaded,8,21,1
+VLCC033,Vessel_33,01/05/2025,North Sea,MEG-China,297963,Loaded,4,27,0
+VLCC033,Vessel_33,01/06/2025,North Sea,Carib-US East Coast,300948,Loaded,10,20,0
+VLCC034,Vessel_34,01/01/2025,Caribbean,NS-Asia,292966,Loaded,3,25,3
+VLCC034,Vessel_34,01/02/2025,West Africa,USG-Europe,315564,Loaded,7,18,3
+VLCC034,Vessel_34,01/03/2025,MEG,WAF-US Gulf,313291,Loaded,3,23,5
+VLCC034,Vessel_34,01/04/2025,MEG,Carib-US East Coast,305374,Loaded,0,26,4
+VLCC034,Vessel_34,01/05/2025,North Sea,Carib-US East Coast,296148,Loaded,1,30,0
+VLCC034,Vessel_34,01/06/2025,US Gulf,WAF-US Gulf,317219,Loaded,2,27,1
+VLCC035,Vessel_35,01/01/2025,MEG,MEG-China,292197,Loaded,0,17,14
+VLCC035,Vessel_35,01/02/2025,US Gulf,USG-Europe,318454,Loaded,7,21,0
+VLCC035,Vessel_35,01/03/2025,US Gulf,NS-Asia,296817,Loaded,5,17,9
+VLCC035,Vessel_35,01/04/2025,US Gulf,NS-Asia,297598,Loaded,4,18,8
+VLCC035,Vessel_35,01/05/2025,Caribbean,MEG-China,299650,Loaded,0,31,0
+VLCC035,Vessel_35,01/06/2025,Caribbean,NS-Asia,317792,Loaded,4,22,4
+VLCC036,Vessel_36,01/01/2025,North Sea,NS-Asia,301436,Loaded,6,25,0
+VLCC036,Vessel_36,01/02/2025,West Africa,NS-Asia,290296,Loaded,0,17,11
+VLCC036,Vessel_36,01/03/2025,West Africa,WAF-US Gulf,290705,Loaded,0,31,0
+VLCC036,Vessel_36,01/04/2025,MEG,WAF-US Gulf,302208,Loaded,1,27,2
+VLCC036,Vessel_36,01/05/2025,West Africa,USG-Europe,314219,Loaded,1,30,0
+VLCC036,Vessel_36,01/06/2025,US Gulf,USG-Europe,308362,Loaded,8,21,1
+VLCC037,Vessel_37,01/01/2025,North Sea,USG-Europe,291662,Loaded,0,23,8
+VLCC037,Vessel_37,01/02/2025,Caribbean,WAF-US Gulf,294704,Loaded,2,24,2
+VLCC037,Vessel_37,01/03/2025,MEG,USG-Europe,307024,Loaded,7,15,9
+VLCC037,Vessel_37,01/04/2025,MEG,USG-Europe,302958,Loaded,2,21,7
+VLCC037,Vessel_37,01/05/2025,US Gulf,Carib-US East Coast,296477,Loaded,3,18,10
+VLCC037,Vessel_37,01/06/2025,Caribbean,Carib-US East Coast,313086,Loaded,6,24,0
+VLCC038,Vessel_38,01/01/2025,West Africa,WAF-US Gulf,313911,Loaded,2,16,13
+VLCC038,Vessel_38,01/02/2025,North Sea,Carib-US East Coast,294826,Loaded,0,28,0
+VLCC038,Vessel_38,01/03/2025,MEG,NS-Asia,294491,Loaded,6,15,10
+VLCC038,Vessel_38,01/04/2025,US Gulf,MEG-China,315748,Loaded,1,23,6
+VLCC038,Vessel_38,01/05/2025,MEG,NS-Asia,302964,Loaded,2,15,14
+VLCC038,Vessel_38,01/06/2025,West Africa,WAF-US Gulf,297455,Loaded,14,16,0
+VLCC039,Vessel_39,01/01/2025,West Africa,Carib-US East Coast,308570,Loaded,1,28,2
+VLCC039,Vessel_39,01/02/2025,MEG,WAF-US Gulf,294220,Loaded,1,26,1
+VLCC039,Vessel_39,01/03/2025,West Africa,NS-Asia,307188,Loaded,11,16,4
+VLCC039,Vessel_39,01/04/2025,MEG,WAF-US Gulf,302983,Loaded,0,26,4
+VLCC039,Vessel_39,01/05/2025,North Sea,NS-Asia,298394,Loaded,0,31,0
+VLCC039,Vessel_39,01/06/2025,North Sea,NS-Asia,317043,Loaded,9,16,5
+VLCC040,Vessel_40,01/01/2025,North Sea,WAF-US Gulf,306279,Loaded,1,26,4
+VLCC040,Vessel_40,01/02/2025,MEG,MEG-China,303230,Loaded,0,20,8
+VLCC040,Vessel_40,01/03/2025,North Sea,WAF-US Gulf,290091,Loaded,9,18,4
+VLCC040,Vessel_40,01/04/2025,MEG,Carib-US East Coast,292503,Loaded,0,30,0
+VLCC040,Vessel_40,01/05/2025,North Sea,WAF-US Gulf,299203,Loaded,5,18,8
+VLCC040,Vessel_40,01/06/2025,Caribbean,WAF-US Gulf,299587,Loaded,9,21,0
+VLCC041,Vessel_41,01/01/2025,North Sea,Carib-US East Coast,290068,Loaded,6,21,4
+VLCC041,Vessel_41,01/02/2025,MEG,WAF-US Gulf,297322,Loaded,7,16,5
+VLCC041,Vessel_41,01/03/2025,West Africa,MEG-China,313760,Loaded,1,20,10
+VLCC041,Vessel_41,01/04/2025,North Sea,MEG-China,296083,Loaded,4,15,11
+VLCC041,Vessel_41,01/05/2025,West Africa,NS-Asia,313382,Loaded,7,24,0
+VLCC041,Vessel_41,01/06/2025,Caribbean,Carib-US East Coast,314021,Loaded,3,18,9
+VLCC042,Vessel_42,01/01/2025,West Africa,Carib-US East Coast,314048,Loaded,3,28,0
+VLCC042,Vessel_42,01/02/2025,West Africa,WAF-US Gulf,315927,Loaded,3,25,0
+VLCC042,Vessel_42,01/03/2025,Caribbean,WAF-US Gulf,293271,Loaded,11,19,1
+VLCC042,Vessel_42,01/04/2025,West Africa,Carib-US East Coast,303134,Loaded,11,17,2
+VLCC042,Vessel_42,01/05/2025,North Sea,MEG-China,300664,Loaded,1,17,13
+VLCC042,Vessel_42,01/06/2025,MEG,MEG-China,300987,Loaded,0,30,0
+VLCC043,Vessel_43,01/01/2025,Caribbean,WAF-US Gulf,309488,Loaded,2,24,5
+VLCC043,Vessel_43,01/02/2025,MEG,NS-Asia,300821,Loaded,1,24,3
+VLCC043,Vessel_43,01/03/2025,North Sea,WAF-US Gulf,297255,Loaded,0,30,1
+VLCC043,Vessel_43,01/04/2025,West Africa,MEG-China,316545,Loaded,1,23,6
+VLCC043,Vessel_43,01/05/2025,US Gulf,USG-Europe,308643,Loaded,3,24,4
+VLCC043,Vessel_43,01/06/2025,MEG,USG-Europe,298838,Loaded,2,18,10
+VLCC044,Vessel_44,01/01/2025,US Gulf,NS-Asia,302103,Loaded,1,30,0
+VLCC044,Vessel_44,01/02/2025,US Gulf,NS-Asia,300672,Loaded,5,23,0
+VLCC044,Vessel_44,01/03/2025,Caribbean,Carib-US East Coast,318542,Loaded,2,23,6
+VLCC044,Vessel_44,01/04/2025,US Gulf,MEG-China,300872,Loaded,0,28,2
+VLCC044,Vessel_44,01/05/2025,Caribbean,WAF-US Gulf,299050,Loaded,3,23,5
+VLCC044,Vessel_44,01/06/2025,Caribbean,WAF-US Gulf,309490,Loaded,1,29,0
+VLCC045,Vessel_45,01/01/2025,MEG,Carib-US East Coast,292584,Loaded,6,20,5
+VLCC045,Vessel_45,01/02/2025,West Africa,WAF-US Gulf,306156,Loaded,1,20,7
+VLCC045,Vessel_45,01/03/2025,MEG,Carib-US East Coast,311020,Loaded,1,30,0
+VLCC045,Vessel_45,01/04/2025,MEG,MEG-China,294435,Loaded,10,20,0
+VLCC045,Vessel_45,01/05/2025,West Africa,NS-Asia,309790,Loaded,4,21,6
+VLCC045,Vessel_45,01/06/2025,Caribbean,USG-Europe,294431,Loaded,6,19,5
+VLCC046,Vessel_46,01/01/2025,Caribbean,Carib-US East Coast,294600,Loaded,1,30,0
+VLCC046,Vessel_46,01/02/2025,Caribbean,WAF-US Gulf,300042,Loaded,5,22,1
+VLCC046,Vessel_46,01/03/2025,Caribbean,NS-Asia,306824,Loaded,3,28,0
+VLCC046,Vessel_46,01/04/2025,Caribbean,WAF-US Gulf,291192,Loaded,8,18,4
+VLCC046,Vessel_46,01/05/2025,Caribbean,WAF-US Gulf,306106,Loaded,0,22,9
+VLCC046,Vessel_46,01/06/2025,West Africa,USG-Europe,308479,Loaded,0,29,1
+VLCC047,Vessel_47,01/01/2025,West Africa,NS-Asia,305816,Loaded,1,26,4
+VLCC047,Vessel_47,01/02/2025,North Sea,USG-Europe,295458,Loaded,2,25,1
+VLCC047,Vessel_47,01/03/2025,US Gulf,Carib-US East Coast,290784,Loaded,0,31,0
+VLCC047,Vessel_47,01/04/2025,Caribbean,MEG-China,293517,Loaded,1,27,2
+VLCC047,Vessel_47,01/05/2025,Caribbean,USG-Europe,309985,Loaded,0,26,5
+VLCC047,Vessel_47,01/06/2025,MEG,USG-Europe,295476,Loaded,2,26,2
+VLCC048,Vessel_48,01/01/2025,MEG,Carib-US East Coast,316051,Loaded,0,24,7
+VLCC048,Vessel_48,01/02/2025,Caribbean,Carib-US East Coast,298341,Loaded,7,19,2
+VLCC048,Vessel_48,01/03/2025,US Gulf,Carib-US East Coast,296967,Loaded,2,16,13
+VLCC048,Vessel_48,01/04/2025,US Gulf,Carib-US East Coast,319053,Loaded,9,20,1
+VLCC048,Vessel_48,01/05/2025,MEG,WAF-US Gulf,296132,Loaded,6,20,5
+VLCC048,Vessel_48,01/06/2025,North Sea,MEG-China,301161,Loaded,1,25,4
+VLCC049,Vessel_49,01/01/2025,MEG,WAF-US Gulf,316100,Loaded,0,31,0
+VLCC049,Vessel_49,01/02/2025,North Sea,NS-Asia,311691,Loaded,5,15,8
+VLCC049,Vessel_49,01/03/2025,MEG,NS-Asia,304264,Loaded,8,21,2
+VLCC049,Vessel_49,01/04/2025,MEG,Carib-US East Coast,310578,Loaded,4,26,0
+VLCC049,Vessel_49,01/05/2025,Caribbean,USG-Europe,297432,Loaded,0,31,0
+VLCC049,Vessel_49,01/06/2025,Caribbean,NS-Asia,301759,Loaded,1,24,5
+VLCC050,Vessel_50,01/01/2025,West Africa,Carib-US East Coast,294516,Loaded,5,20,6
+VLCC050,Vessel_50,01/02/2025,West Africa,WAF-US Gulf,292583,Loaded,8,20,0
+VLCC050,Vessel_50,01/03/2025,Caribbean,NS-Asia,291455,Loaded,3,20,8
+VLCC050,Vessel_50,01/04/2025,Caribbean,Carib-US East Coast,310129,Loaded,3,19,8
+VLCC050,Vessel_50,01/05/2025,North Sea,NS-Asia,304294,Loaded,5,21,5
+VLCC050,Vessel_50,01/06/2025,North Sea,NS-Asia,313934,Loaded,6,24,0
